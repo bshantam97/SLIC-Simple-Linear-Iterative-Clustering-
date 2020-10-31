@@ -1,7 +1,7 @@
 # SLIC-Simple-Linear-Iterative-Clustering
 
-## Author: Shantam Bajpai
-## Course: CMSC 828I: Advanced Visual Learning and Recognition
+### Author: Shantam Bajpai
+### Course: CMSC 828I: Advanced Visual Learning and Recognition
 
 ### Description of the Project
 In this project the Simple Linear Iterative Clustering alogorithm has been implemented from sratch. 
