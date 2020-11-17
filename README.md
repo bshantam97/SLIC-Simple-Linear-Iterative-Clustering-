@@ -1,5 +1,7 @@
 # SLIC-Simple-Linear-Iterative-Clustering
 
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](LICENSE.md)
+
 ### Author: Shantam Bajpai
 ### Course: CMSC 828I: Advanced Visual Learning and Recognition
 
