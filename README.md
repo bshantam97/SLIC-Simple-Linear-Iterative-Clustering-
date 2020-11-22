@@ -16,3 +16,6 @@ Tested the 3 algorithms for various values of k (Number of clusters).
 ### Libraries Used
 1. OpenCV ( Primary for Loading Image data)
 2. Numpy
+
+### Research Paper Reference 
+Simple Linear Iterative Clustering: https://www.iro.umontreal.ca/~mignotte/IFT6150/Articles/SLIC_Superpixels.pdf
